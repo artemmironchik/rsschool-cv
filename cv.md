@@ -38,6 +38,6 @@ function anagrams(word, words) {
 ***
 ### Languages:
   * English - C2 according to the [EFSET](efset.org), had some practice with native speakers
-  ![EFSET Certificate](d:\Users\37544\Downloads\rs_school\efset.png)
+  ![EFSET Certificate](../rsschool-cv/images/efset.png)
   * Russian - Native
   * Belarussian - can understand it, but don't know it to the level where I can speak on it
