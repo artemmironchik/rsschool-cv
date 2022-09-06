@@ -37,7 +37,6 @@ function anagrams(word, words) {
   * 2 years of learning English with tutor
 ***
 ### Languages:
-  * English - C2 according to the [EFSET](efset.org), had some practice with native speakers
-  ![EFSET Certificate](../rsschool-cv/images/efset.png)
+  * English - C2 according to the [EFSET Certificate](https://www.efset.org/cert/X3WbJc)), had some practice with native speakers
   * Russian - Native
   * Belarussian - can understand it, but don't know it to the level where I can speak on it
