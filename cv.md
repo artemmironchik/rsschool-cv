@@ -15,3 +15,19 @@ I'm currently a student of BSU and my passion for knowledge and new challenges m
   * Basic knowledge of JavaScript and C++
   * Figma, Adobe Illustrator (basics)
   * Git
+***
+### Code example:
+**Where my anagrams at ? (Codewars, 5kyu)**: What is an anagram? Well, two words are anagrams of each other if they both contain the same letters. For example: `'abba' & 'baab' == true`. Write a function that will find all the anagrams of a word from a list. You will be given two inputs a word and an array with words. You should return an array of all the anagrams or an empty array if there are none. For example: `anagrams('abba', ['aabb', 'abcd', 'bbaa', 'dada']) => ['aabb', 'bbaa']`.
+```
+function anagrams(word, words) {
+  let newWord = word.split('').sort().join('')
+  console.log(newWord)
+  return words.filter(wordInArr => {
+    let sortedWord = wordInArr.split('').sort().join('')
+    if (sortedWord === newWord) {
+      return wordInArr
+    }
+  })
+}
+```
+***
