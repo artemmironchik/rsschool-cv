@@ -7,7 +7,7 @@
   * **Email**: tawerka.power@gmail.com
   * **Discord name**: @artemmironchik
   * **Telegram**: @kichnorim 
-## About me
+## About me:
 I'm currently a student of BSU and my passion for knowledge and new challenges might be the reasons why I decided to start this course. I don't have any working experience yet but I think that my communication skills, dedication to work, ability to work in team and the knowledge that I will get from this course will be a good addition to any company.
 ***
 ## Skills:
@@ -31,3 +31,13 @@ function anagrams(word, words) {
 }
 ```
 ***
+### Courses:
+  * 1 year of learning basics of HTML, CSS and JS in the university
+  * Currently learning JS on [learn.javascript.ru](learn.javascript.ru)
+  * 2 years of learning English with tutor
+***
+### Languages:
+  * English - C2 according to the [EFSET](efset.org), had some practice with native speakers
+  ![EFSET Certificate](d:\Users\37544\Downloads\rs_school\efset.png)
+  * Russian - Native
+  * Belarussian - can understand it, but don't know it to the level where I can speak on it
